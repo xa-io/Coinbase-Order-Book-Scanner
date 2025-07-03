@@ -50,6 +50,7 @@ ACS       -75.42%    [0.0010987]    +43.81%   24Hr Vol: $36,747
 AGLD      -71.75%     [0.7258]      +55.70%   24Hr Vol: $157,143
 Completed scan cycle with 141/298 valid pairs. Waiting 300 seconds before next scan...
 ```
+`In the example above, what it means for 00 is that, if we market sold $50,000, the current orderbooks would fall by -72.46% due to lack of liquidity. Same as going up, if we market bought the same $50,000 the order books would wick the price up by +13.44%.`
 
 ## Prerequisites
 
